@@ -16,7 +16,7 @@ and execute correcty some of the document layout analysis developed software.
 
 In order to use the image (and launch a container)  you will need to first download (fastest) or build the container. 
 
-* To download [vbosch/p2pala](https://hub.docker.com/r/vbosch/uobel) or pull the current version of the hub image simply execute the following command:
+* To download [vbosch/uobel](https://hub.docker.com/r/vbosch/uobel) or pull the current version of the hub image simply execute the following command:
 	```
 	sudo docker pull vbosch/uobel
 	```
